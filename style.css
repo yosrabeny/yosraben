@@ -1,0 +1,11 @@
+body , html { background-color: pink ; color: purple ; margin-left:10px;
+margin-right:10px;
+font-family: Times new roman;
+Font-size: 14px;} 
+h1 { color: yellow; 
+	font-family: helvetica; 
+font-weight: 10px;  } 
+
+
+div { background-color: white;
+  border 2px solid black; 10px }
